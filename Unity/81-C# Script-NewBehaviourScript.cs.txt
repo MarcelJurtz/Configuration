@@ -1,0 +1,21 @@
+/*
+* Copyright (C) Marcel Jurtz
+* twitter.com/MarcelJurtz
+*/
+using UnityEngine;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+
+	#region Variables
+	#endregion
+
+	#region Methods
+	void Start () {
+		#NOTRIM#
+	}
+
+	void Update () {
+		#NOTRIM#
+	}
+	#endregion
+}
