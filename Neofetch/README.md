@@ -1,0 +1,3 @@
+# Neofetch
+
+Location: ~/.config/neofetch/
