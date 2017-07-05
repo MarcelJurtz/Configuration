@@ -36,6 +36,7 @@
 * [Script](https://atom.io/packages/script)
 * [File Icons](https://atom.io/packages/file-icons)
 * [Autocomplete Python](https://atom.io/packages/autocomplete-python)
+* [Atom-Latex](https://atom.io/packages/atom-latex)
 
 ### Atom Themes
 
@@ -70,3 +71,4 @@ Better just use 'One Dark'
 * [Git Bash](https://git-for-windows.github.io/)
 * [FileZilla FTP Client](https://filezilla-project.org/download.php?type=client)
 * [7-ZIP](http://www.7-zip.org/)
+* [TexLive](https://www.tug.org/texlive/acquire-netinstall.html)
