@@ -7,7 +7,7 @@ Note: I use a glass plate instead of tape. If you use tape, you might decrease t
 
 # Patona PLA
 
-* Printing Temperature: 210 °C
+* Printing Temperature: ~~210~~ 220 °C
 * Build plate Temperature: 65 °C
 
 # ICE Wood Filament
